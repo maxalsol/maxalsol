@@ -2,17 +2,12 @@
 
 ### My name is Max and I´m a software developer from Germany.
 
+### 👨‍💻 I’m currently working on my portfolio to get a job as a frontend developer.
+
+### 🌱 I’m currently learning more React and TypeScript.
+
 ### 💬 Ask me about ... well anything. Just DM me.
 
-<!-- **maxalsol/maxalsol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 How to reach me: instagram, twitter, github ... @maxalsol
 
-Here are some ideas to get you started:
-
--   🔭 I’m currently working on ...
--   🌱 I’m currently learning ...
--   👯 I’m looking to collaborate on ...
--   🤔 I’m looking for help with ...
--   💬 Ask me about ...
--   📫 How to reach me: ...
--   😄 Pronouns: ...
--   ⚡ Fun fact: ... -->
+### 🤪 Fun fact:
