@@ -1,4 +1,4 @@
-### Hello there 👋
+### <h1>Hello there 👋</h1>
 
 ### My name is Max and I´m a software developer from Germany.
 
