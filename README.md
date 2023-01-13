@@ -1,13 +1,13 @@
 ### <h1>Hello there 👋</h1>
 
-### My name is Max and I'm a software developer from Germany.
+### My name is Max and I'm a Frontend Developer from Germany currently located in New Zealand.
 
-### 👨‍💻 I'm currently working on my portfolio to get a job as a frontend developer and the webiste for "Original Rosenbachtaler Blasmusikanten".
+### 👨‍💻 Working on my portfolio to get a job in the industry.
 
-### 🌱 Currently I'm learning more React and TypeScript.
+### 🌱 About to improve my React skills & JavaScript in the sweet taste vanilla.
 
 ### 💬 Ask me about ... well anything. Just DM me.
 
 ### 📫 How to reach me: instagram, twitter, github ... @maxalsol
 
-### 🤪 Fun fact: I'm a qualified mechanic.
+### 🤪 Fun fact: I can clapp with one hand.
