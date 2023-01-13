@@ -10,4 +10,4 @@
 
 ### 📫 How to reach me: instagram, twitter, github ... @maxalsol
 
-### 🤪 Fun fact: I can clapp with one hand.
+### 🤪 Fun fact: I can clap with one hand.
